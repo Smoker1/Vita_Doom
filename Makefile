@@ -1,6 +1,6 @@
 PROJECT = Vita_Doom
 PROJECT_TITLE := Vita Doom
-PROJECT_TITLEID := DOOM00666
+PROJECT_TITLEID := PCSE93121
 
 HOMEBREW_C_SRCS := $(wildcard src/*.c)
 HOMEBREW_CPP_SRCS := $(wildcard src/*.cpp)
